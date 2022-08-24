@@ -1,0 +1,15 @@
+C:\C#\SEMINAR2\obj\Debug\net6.0\SEMINAR2.csproj.AssemblyReference.cache
+C:\C#\SEMINAR2\obj\Debug\net6.0\SEMINAR2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\SEMINAR2\obj\Debug\net6.0\SEMINAR2.AssemblyInfoInputs.cache
+C:\C#\SEMINAR2\obj\Debug\net6.0\SEMINAR2.AssemblyInfo.cs
+C:\C#\SEMINAR2\obj\Debug\net6.0\SEMINAR2.csproj.CoreCompileInputs.cache
+C:\C#\SEMINAR2\bin\Debug\net6.0\SEMINAR2.exe
+C:\C#\SEMINAR2\bin\Debug\net6.0\SEMINAR2.deps.json
+C:\C#\SEMINAR2\bin\Debug\net6.0\SEMINAR2.runtimeconfig.json
+C:\C#\SEMINAR2\bin\Debug\net6.0\SEMINAR2.dll
+C:\C#\SEMINAR2\bin\Debug\net6.0\SEMINAR2.pdb
+C:\C#\SEMINAR2\obj\Debug\net6.0\SEMINAR2.dll
+C:\C#\SEMINAR2\obj\Debug\net6.0\refint\SEMINAR2.dll
+C:\C#\SEMINAR2\obj\Debug\net6.0\SEMINAR2.pdb
+C:\C#\SEMINAR2\obj\Debug\net6.0\SEMINAR2.genruntimeconfig.cache
+C:\C#\SEMINAR2\obj\Debug\net6.0\ref\SEMINAR2.dll
