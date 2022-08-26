@@ -1,0 +1,15 @@
+C:\C#\Examples\Exaple044_Div\bin\Debug\net6.0\Exaple044_Div.exe
+C:\C#\Examples\Exaple044_Div\bin\Debug\net6.0\Exaple044_Div.deps.json
+C:\C#\Examples\Exaple044_Div\bin\Debug\net6.0\Exaple044_Div.runtimeconfig.json
+C:\C#\Examples\Exaple044_Div\bin\Debug\net6.0\Exaple044_Div.dll
+C:\C#\Examples\Exaple044_Div\bin\Debug\net6.0\Exaple044_Div.pdb
+C:\C#\Examples\Exaple044_Div\obj\Debug\net6.0\Exaple044_Div.csproj.AssemblyReference.cache
+C:\C#\Examples\Exaple044_Div\obj\Debug\net6.0\Exaple044_Div.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Examples\Exaple044_Div\obj\Debug\net6.0\Exaple044_Div.AssemblyInfoInputs.cache
+C:\C#\Examples\Exaple044_Div\obj\Debug\net6.0\Exaple044_Div.AssemblyInfo.cs
+C:\C#\Examples\Exaple044_Div\obj\Debug\net6.0\Exaple044_Div.csproj.CoreCompileInputs.cache
+C:\C#\Examples\Exaple044_Div\obj\Debug\net6.0\Exaple044_Div.dll
+C:\C#\Examples\Exaple044_Div\obj\Debug\net6.0\refint\Exaple044_Div.dll
+C:\C#\Examples\Exaple044_Div\obj\Debug\net6.0\Exaple044_Div.pdb
+C:\C#\Examples\Exaple044_Div\obj\Debug\net6.0\Exaple044_Div.genruntimeconfig.cache
+C:\C#\Examples\Exaple044_Div\obj\Debug\net6.0\ref\Exaple044_Div.dll

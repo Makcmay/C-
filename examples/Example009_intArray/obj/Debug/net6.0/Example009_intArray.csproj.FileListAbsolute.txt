@@ -1,0 +1,15 @@
+C:\C#\Examples\Example009_intArray\obj\Debug\net6.0\Example009_intArray.csproj.AssemblyReference.cache
+C:\C#\Examples\Example009_intArray\obj\Debug\net6.0\Example009_intArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Examples\Example009_intArray\obj\Debug\net6.0\Example009_intArray.AssemblyInfoInputs.cache
+C:\C#\Examples\Example009_intArray\obj\Debug\net6.0\Example009_intArray.AssemblyInfo.cs
+C:\C#\Examples\Example009_intArray\obj\Debug\net6.0\Example009_intArray.csproj.CoreCompileInputs.cache
+C:\C#\Examples\Example009_intArray\bin\Debug\net6.0\Example009_intArray.exe
+C:\C#\Examples\Example009_intArray\bin\Debug\net6.0\Example009_intArray.deps.json
+C:\C#\Examples\Example009_intArray\bin\Debug\net6.0\Example009_intArray.runtimeconfig.json
+C:\C#\Examples\Example009_intArray\bin\Debug\net6.0\Example009_intArray.dll
+C:\C#\Examples\Example009_intArray\bin\Debug\net6.0\Example009_intArray.pdb
+C:\C#\Examples\Example009_intArray\obj\Debug\net6.0\Example009_intArray.dll
+C:\C#\Examples\Example009_intArray\obj\Debug\net6.0\refint\Example009_intArray.dll
+C:\C#\Examples\Example009_intArray\obj\Debug\net6.0\Example009_intArray.pdb
+C:\C#\Examples\Example009_intArray\obj\Debug\net6.0\Example009_intArray.genruntimeconfig.cache
+C:\C#\Examples\Example009_intArray\obj\Debug\net6.0\ref\Example009_intArray.dll
