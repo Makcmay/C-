@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Seminar2
+namespace Seminar3
 
 {
     class Program
