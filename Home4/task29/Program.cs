@@ -29,11 +29,10 @@ namespace Home4
             
             
             int[] arr = new int[index];
-            int res = 0; 
+            
             for (int i = 0; i < index; i++)
             {
                 arr[i] = new Random().Next(min, max+1); 
-                res = res + arr[i];
             }
             return arr;
 
