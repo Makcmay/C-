@@ -56,7 +56,7 @@ namespace Home4
             // 1, 2, 5, 7, 19 -> [1, 2, 5, 7, 19]
             // 6, 1, 33 -> [6, 1, 33]
 
-            static void Task29()
+            int [] Task29()
             {
             Console.Write("Введите число элементов массива :");
             int index = int.Parse(Console.ReadLine());
@@ -68,19 +68,12 @@ namespace Home4
             int max = int.Parse(Console.ReadLine());
             
             int[] arr = new int[index];
-            
-
-                void FillArray(int[] arr)
-                {
-                   
-                    for (int i = 0; i < index; i++)
-                    {
-                        arr[i] = new Random().Next(min, max+1); 
-                    }
-                }    
-                  
-            FillArray(arr);
-            Console.WriteLine($"[{String.Join(", ", arr)}]");
+              
+            for (int i = 0; i < index; i++)
+            {
+                arr[i] = new Random().Next(min, max+1); 
+            }
+            return arr;
             
             }
         }

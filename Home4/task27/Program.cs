@@ -25,10 +25,7 @@ namespace Home4
                 }
 
                 Console.WriteLine($"Сумма цифр в числе = {result}");
-            }
-
-
-            
+            }     
         
         }
         
