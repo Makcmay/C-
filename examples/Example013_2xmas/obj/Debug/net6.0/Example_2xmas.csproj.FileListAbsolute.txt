@@ -1,0 +1,15 @@
+C:\C#\Examples\Example013_2xmas\obj\Debug\net6.0\Example_2xmas.csproj.AssemblyReference.cache
+C:\C#\Examples\Example013_2xmas\obj\Debug\net6.0\Example_2xmas.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Examples\Example013_2xmas\obj\Debug\net6.0\Example_2xmas.AssemblyInfoInputs.cache
+C:\C#\Examples\Example013_2xmas\obj\Debug\net6.0\Example_2xmas.AssemblyInfo.cs
+C:\C#\Examples\Example013_2xmas\obj\Debug\net6.0\Example_2xmas.csproj.CoreCompileInputs.cache
+C:\C#\Examples\Example013_2xmas\bin\Debug\net6.0\Example_2xmas.exe
+C:\C#\Examples\Example013_2xmas\bin\Debug\net6.0\Example_2xmas.deps.json
+C:\C#\Examples\Example013_2xmas\bin\Debug\net6.0\Example_2xmas.runtimeconfig.json
+C:\C#\Examples\Example013_2xmas\bin\Debug\net6.0\Example_2xmas.dll
+C:\C#\Examples\Example013_2xmas\bin\Debug\net6.0\Example_2xmas.pdb
+C:\C#\Examples\Example013_2xmas\obj\Debug\net6.0\Example_2xmas.dll
+C:\C#\Examples\Example013_2xmas\obj\Debug\net6.0\refint\Example_2xmas.dll
+C:\C#\Examples\Example013_2xmas\obj\Debug\net6.0\Example_2xmas.pdb
+C:\C#\Examples\Example013_2xmas\obj\Debug\net6.0\Example_2xmas.genruntimeconfig.cache
+C:\C#\Examples\Example013_2xmas\obj\Debug\net6.0\ref\Example_2xmas.dll
