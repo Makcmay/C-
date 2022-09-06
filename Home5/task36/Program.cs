@@ -29,7 +29,7 @@ int count = 0;
             count+= array[i];
         }    
     }
-    Console.WriteLine($"Сумма нечетных позиций = {count}");
+    Console.WriteLine($"Сумма элементов нечетных позиций = {count}");
     return count;
         
 }
