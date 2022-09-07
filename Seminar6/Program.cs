@@ -30,7 +30,7 @@ bool IsTriangle(int a,int b,int c) // прада или нет боол, вво�
 Clear();
 int number=int.Parse(ReadLine());
 
-string res1=Convert.ToString(number,2); 
+string res1=Convert.ToString(number,2); //конверт в двоичную
 string res2=DecToNum(number,2);
 
 WriteLine($"{number}->{res1}");
@@ -76,7 +76,7 @@ int[] copyArray=CopyArray(array);
 WriteLine(String.Join(" ", copyArray));
 
 
-int[] GetArray(int size, int minValue, int maxValue)
+int[] GetArray(int size, int minValue, int maxValue) // метод создания массива
 {
     int[] res = new int[size];
 
@@ -87,9 +87,10 @@ int[] GetArray(int size, int minValue, int maxValue)
     return res;
 }
 
-int[] CopyArray(int[] inArray)
+int[] CopyArray(int[] inArray) // метод копирования массива
 {
-    int[] result = new int[inArray.Length];
+    int[] result = new int[inArray.Length]; // новый массим
+    
     for (int i = 0; i < inArray.Length; i++)
     {
         result[i] = inArray[i];
