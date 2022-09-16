@@ -90,10 +90,10 @@ int[] GetArray(int size, int minValue, int maxValue) // метод создан�
 int[] CopyArray(int[] inArray) // метод копирования массива
 {
     int[] result = new int[inArray.Length]; // новый массим
-    
+
     for (int i = 0; i < inArray.Length; i++)
     {
-        result[i] = inArray[i];
+        result[i] = inArray[i]; // копирование массива
 
     }
     return result;
@@ -106,7 +106,7 @@ double FibonacciBad(int n)
 	else return FibonacciBad(n-1) + FibonacciBad(n-2);
 }
 
-double FibonacciR(double[] f, int n)
+double FibonacciR(double[] f, int n) // хранит предыдушие два значеия, для ускорения просчета
 {
 	if(n == 1 || n == 2) 
     {
@@ -139,17 +139,17 @@ int countTests = 45;
 DateTime saveTime;
 
 Console.WriteLine($"Цикл for: ");
-saveTime = DateTime.Now;
+saveTime = DateTime.Now; // определяет время сейяас
 int fibonacci1 = 1;
 int fibonacci2 = 1;
-for (int i = 1; i <= countTests; i++)
+for (int i = 1; i <= countTests; i++) // решение через цикл
 {
 	Console.WriteLine($"f({i}) = {fibonacci2}");
 	int temporary = fibonacci2;
 	fibonacci2 += fibonacci1;
 	fibonacci1 = temporary; 
 }
-Console.WriteLine($"Для for прошло: {DateTime.Now - saveTime}");
+Console.WriteLine($"Для for прошло: {DateTime.Now - saveTime}"); // сколько времени прошло
 
 
 Console.WriteLine($"FibonacciBad: ");
@@ -231,5 +231,5 @@ int[] ReversArray2(int[] inArray)
 
 void ReversArray3(int[] inArray)
 {
-    Array.Reverse(inArray);
+    Array.Reverse(inArray); // переворот массива
 }

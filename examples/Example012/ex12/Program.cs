@@ -95,19 +95,19 @@ string Replace(string text, char oldValue, char newValue)
     }
     return result;
 }
-// System.Console.WriteLine(text);
-// System.Console.WriteLine();
+System.Console.WriteLine(text);
+System.Console.WriteLine();
 
-// string newText = Replace(text, ' ', '|');
-// Console.WriteLine(newText); // получили текс с заменой пробелов
-// System.Console.WriteLine(); // пустая строка
+string newText = Replace(text, ' ', '|');
+Console.WriteLine(newText); // получили текс с заменой пробелов
+System.Console.WriteLine(); // пустая строка
 
-// newText = Replace(newText, 'к', 'К'); // работаем с уже измененым текстом
-// Console.WriteLine(newText);
-// System.Console.WriteLine();
+newText = Replace(newText, 'к', 'К'); // работаем с уже измененым текстом
+Console.WriteLine(newText);
+System.Console.WriteLine();
 
-// newText = Replace(newText, 'с', 'С');
-// Console.WriteLine(newText);
+newText = Replace(newText, 'с', 'С');
+Console.WriteLine(newText);
 
 int [] arr = {1, 5, 4, 3, 2, 6, 7, 1, 1 };
 
